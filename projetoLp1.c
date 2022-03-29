@@ -1,15 +1,3 @@
-/*
-LUCAS EMMANUEL DE SOUSA ALVES
-Rafael de Sousa Cavalcante
-José Ivan Abrantes Virgínio
-Edilson do Nascimento Costa júnior
-Pedro Gabriel Girão Almeida
-CAIO HENRIQUE BARBOSA DA SILVA
-José Vinícius Silva Alves
-Gabriel Yuri Ramalho Ferreira
-Jenniffer Kelly Rufino de Araújo
-Joyce Lima Avelino
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
